@@ -4,7 +4,7 @@
 
 
 
-In this Project, I've built a Pricing Table list which can be used for various purposes such as Personal Brand Advertisement, Portfolio, UI/UI Designing, and much more. It is a Simple Design with a lot of features which the user can explore.
+In this Project, I've built a Pricing Table list which can be used for various purposes such as Personal Brand Advertisement, Portfolio, UI/UX Designing, and much more. It is a Simple Design with a lot of features which the user can explore.
 
 
 Use the `README.md` to get started.
